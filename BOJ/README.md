@@ -37,3 +37,22 @@ public class Main{
         int num = Integer.parseInt(str);
     }
 }
+```
+
+* 공백으로 구분된 두개의 정수 입력 받기
+```java
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.IOException;
+import java.util.StringTokenizer;
+public class test{
+    public static void main(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        String str = br.readLine();
+        StringTokenizer st = new StringTokenizer(str," ");
+        int a = Integer.parseInt(st.nextToken());
+        int b = Integer.parseInt(st.nextToken());                
+    }    
+}
+```
