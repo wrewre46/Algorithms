@@ -23,6 +23,7 @@ num_list=list(map(int,sys.stdin.readline().split()))
 2. HTTP 응답 데이터
 3. 키보드 입력
 
+### 입출력
 * 하나의 정수 입력 받는 경우
 ```java
 
