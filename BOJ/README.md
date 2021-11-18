@@ -19,9 +19,9 @@ num_list=list(map(int,sys.stdin.readline().split()))
 
 ## JAVA
 ### Stream
-- 파일 데이터
-- HTTP 응답 데이터
-- 키보드 입력
+1. 파일 데이터
+2. HTTP 응답 데이터
+3. 키보드 입력
 
 * 하나의 정수 입력 받는 경우
 ```java
