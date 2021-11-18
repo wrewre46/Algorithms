@@ -16,3 +16,23 @@ num_list.append(int(input()))
 import sys
 num_list=list(map(int,sys.stdin.readline().split()))
 ```
+
+## JAVA
+### Stream
+- 파일 데이터
+- HTTP 응답 데이터
+- 키보드 입력
+
+* 하나의 정수 입력 받는 경우
+```java
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.IOException;
+public class Main{
+    public static void main(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String str = br.readLine();
+        int num = Integer.parseInt(str);
+    }
+}
