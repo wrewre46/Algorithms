@@ -1,4 +1,5 @@
-package Algorithms.BOJ.Input.Output;
+package Algorithms.BOJ.Input_Output;
+
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
