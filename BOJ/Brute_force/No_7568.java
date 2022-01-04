@@ -1,3 +1,4 @@
+package Algorithms.BOJ.Brute_force;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
