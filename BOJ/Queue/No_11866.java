@@ -1,3 +1,5 @@
+package Algorithms.BOJ.Queue;
+
 import java.io.*;
 import java.util.*;
 
