@@ -1,4 +1,4 @@
-package Codility;
+package Algorithms.Codility;
 
 import java.util.*;
 
