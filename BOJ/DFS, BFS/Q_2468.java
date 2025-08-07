@@ -1,4 +1,3 @@
-package backjun;
 import java.io.*;
 import java.util.*;
 public class Q_2468 {
